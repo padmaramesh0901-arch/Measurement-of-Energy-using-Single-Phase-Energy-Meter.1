@@ -1,5 +1,5 @@
-## Name: Sampaul P
-## Reg No : 212224250015
+## Name: Padmapriya R
+## Reg No : 212224250012
 # Aim:
 To measure energy using Single Phase Energy Meter
 
